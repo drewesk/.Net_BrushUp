@@ -1,0 +1,11 @@
+/Users/Drew 1/Projects/string_builder/string_builder/bin/Debug/netcoreapp2.0/string_builder.deps.json
+/Users/Drew 1/Projects/string_builder/string_builder/bin/Debug/netcoreapp2.0/string_builder.runtimeconfig.json
+/Users/Drew 1/Projects/string_builder/string_builder/bin/Debug/netcoreapp2.0/string_builder.runtimeconfig.dev.json
+/Users/Drew 1/Projects/string_builder/string_builder/bin/Debug/netcoreapp2.0/string_builder.dll
+/Users/Drew 1/Projects/string_builder/string_builder/bin/Debug/netcoreapp2.0/string_builder.pdb
+/Users/Drew 1/Projects/string_builder/string_builder/obj/Debug/netcoreapp2.0/string_builder.csprojResolveAssemblyReference.cache
+/Users/Drew 1/Projects/string_builder/string_builder/obj/Debug/netcoreapp2.0/string_builder.csproj.CoreCompileInputs.cache
+/Users/Drew 1/Projects/string_builder/string_builder/obj/Debug/netcoreapp2.0/string_builder.AssemblyInfoInputs.cache
+/Users/Drew 1/Projects/string_builder/string_builder/obj/Debug/netcoreapp2.0/string_builder.AssemblyInfo.cs
+/Users/Drew 1/Projects/string_builder/string_builder/obj/Debug/netcoreapp2.0/string_builder.dll
+/Users/Drew 1/Projects/string_builder/string_builder/obj/Debug/netcoreapp2.0/string_builder.pdb
