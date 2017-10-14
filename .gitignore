@@ -304,4 +304,5 @@ __pycache__/
 # OpenCover UI analysis results
 OpenCover/
 
+typing.io/
 .DS_Store
